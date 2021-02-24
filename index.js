@@ -1,1 +1,3 @@
-functions add()
+functions add(num){
+  return num + 1
+}
